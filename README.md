@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm JennaSanks🌸</h1>
+<h1 align="center">Hi👋, I'm Sanskruti🌸</h1>
 <h3 align="center">A passionate frontend developer and a soon to be AI & ML engineer🌿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasanks&label=Profile%20views&color=0e75b6&style=flat" alt="jennasanks" /> </p>
